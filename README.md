@@ -1,20 +1,18 @@
 # Contact-management-system
 
-### Add Contact Page
-![2](https://github.com/user-attachments/assets/222c6fd5-9bcb-4190-a8bd-7ef50f94f06d)
-
-
-- A form with fields for **First Name**, **Last Name**, **Phone Number**, **Email**, **Company**, and **Job Title**.
-- Icons accompany each input field, with **Submit** and **Reset** buttons below.
-- Styled with a light blue background and a bold "Add Contact" heading.
-
- ### Contact List Page 
+ ### Contacts Table 
 ![1](https://github.com/user-attachments/assets/aaeda493-5090-4008-aa9a-6decd943a89f)
 
 
 - Displays a searchable, paginated table of contacts with columns for **Name**, **Email**, **Phone Number**, **Company**, **Job Title**, and **Actions**.
 - **Edit** and **Delete** action icons enable contact management.
-- Soft blue theme with clean layout for easy navigation.
+
+### Add Contact
+![2](https://github.com/user-attachments/assets/222c6fd5-9bcb-4190-a8bd-7ef50f94f06d)
+
+
+- A form with fields for **First Name**, **Last Name**, **Phone Number**, **Email**, **Company**, and **Job Title**.
+- Icons accompany each input field, with **Done** and **Reset** buttons below.
 
 
 
