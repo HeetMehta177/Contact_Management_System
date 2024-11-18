@@ -12,7 +12,7 @@
 
 
 - A form with fields for **First Name**, **Last Name**, **Phone Number**, **Email**, **Company**, and **Job Title**.
-- Icons accompany each input field, with **Done** and **Reset** buttons below.
+- Icons accompany each input field, with **Done** and **Cancel** buttons below.
 
 
 
