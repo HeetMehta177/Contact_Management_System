@@ -61,6 +61,10 @@ Responsive UI: The application features a professional and visually appealing in
      PORT=5001
   ### Replace your_db_username and your_db_password with your actual PostgreSQL credentials.
 
+![3](https://github.com/user-attachments/assets/d7d400ca-44f0-461d-a14e-9f75fa3573b2)
+
+ 
+
 3. Access the application in your browser at http://localhost:3000.
 
 ### Database Schema:
