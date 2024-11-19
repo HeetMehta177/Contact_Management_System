@@ -39,33 +39,39 @@ Responsive UI: The application features a professional and visually appealing in
 **Backend**: The backend is a REST API created using Node.js and Express, providing endpoints for creating, reading, updating, and deleting contacts.
 **Database**: PostgreSQL is used to store contact details, with each contact record containing fields for first name, last name, email, phone number, company, and job title.
 
-## Setup Instructions
+## Get Started
 
-### Prerequisites
--Node.js (v14+)
--PostgreSQL installed locally or access to a PostgreSQL server
--Git
+To get started with the Contact Management Application, clone the repository and follow the instructions:
 
-### Installation
-
-1. Clone the repository:
+### 1) Clone the repository 
     ```bash
-   git clone https://github.com/yourusername/contact-management.git
-   cd contact-management
+    git clone https://github.com/yourusername/contact-management.git
+
+### 2) Navigate to the project directory:
+     ```bash
+     cd contact-management
     
-2. Set up Postgres connection:
-   ## Create a .env file in the backend directory with the following variables:
-   ```bash
-     DB_USER=your_db_username
-     DB_PASSWORD=your_db_password
-     PORT=5001
-  ### Replace your_db_username and your_db_password with your actual PostgreSQL credentials.
+### 3) Install dependencies for both frontend and backend:
+     ```bash
+      cd client
+      npm install
+      cd ../server
+      npm install
+
+### 4) Replace your_db_username and your_db_password with your actual PostgreSQL credentials.
+
+### 5) Start the application:
+#### For the server:
+     ```bash
+     node server.js
+#### For the client:
+     ```bash
+     npm start
+
 
 ![3](https://github.com/user-attachments/assets/d7d400ca-44f0-461d-a14e-9f75fa3573b2)
 
- 
 
-3. Access the application in your browser at http://localhost:3000.
 
 ### Database Schema:
   ```bash
