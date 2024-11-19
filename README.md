@@ -35,7 +35,7 @@ Responsive UI: The application features a professional and visually appealing in
 **UI Framework**: Material UI was chosen to build a consistent and responsive user interface. It provides a wide range of pre-built components, which helped create a professional look for the application.
 
 ## Project Structure
-**Frontend**: Built with React and MUI, the frontend consists of two main pages: one for adding contacts and another for viewing them, managed using React Router.
+**Frontend**: Built with React and MUI.
 **Backend**: The backend is a REST API created using Node.js and Express, providing endpoints for creating, reading, updating, and deleting contacts.
 **Database**: PostgreSQL is used to store contact details, with each contact record containing fields for first name, last name, email, phone number, company, and job title.
 
